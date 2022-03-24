@@ -21,3 +21,4 @@
 
 ## Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
