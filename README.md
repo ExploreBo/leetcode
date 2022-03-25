@@ -29,3 +29,6 @@
 
 ## HashSet
 1. [Design HashSet](https://leetcode.com/problems/design-hashset)
+
+## Stack
+1. [Min Stack](https://leetcode.com/problems/min-stack)
