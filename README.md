@@ -32,3 +32,6 @@
 
 ## Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
+
+## Binary Search
+1. [Binary Search](https://leetcode.com/problems/binary-search/)
