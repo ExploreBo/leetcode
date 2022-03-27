@@ -35,3 +35,4 @@
 
 ## Binary Search
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
+2. [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
