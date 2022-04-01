@@ -1,4 +1,4 @@
-# Completed Problems (Total: 25)
+# Completed Problems (Total: 27)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -38,3 +38,5 @@
 2. [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 4. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
+5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
