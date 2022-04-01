@@ -1,23 +1,23 @@
-# Completed Problems
+# Completed Problems (Total: 25)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
-1. [Reverse String](https://leetcode.com/problems/reverse-string)
-1. [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
-1. [Detect Capital](https://leetcode.com/problems/detect-capital)
-1. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
-1. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
-1. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
-1. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)
-1. [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser)
-1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-1. [Count and Say](https://leetcode.com/problems/count-and-say)
-1. [Camelcase Matching](https://leetcode.com/problems/camelcase-matching)
-1. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)
-1. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
+2. [Reverse String](https://leetcode.com/problems/reverse-string)
+3. [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
+4. [Detect Capital](https://leetcode.com/problems/detect-capital)
+5. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)
+6. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)
+7. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)
+8. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)
+9. [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser)
+10. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+11. [Count and Say](https://leetcode.com/problems/count-and-say)
+12. [Camelcase Matching](https://leetcode.com/problems/camelcase-matching)
+13. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)
+14. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 
 ## Array
 1. [TwoSum](https://leetcode.com/problems/two-sum)
-1. [Remove Element](https://leetcode.com/problems/remove-element)
+2. [Remove Element](https://leetcode.com/problems/remove-element)
 
 ## Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
