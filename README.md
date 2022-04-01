@@ -36,3 +36,5 @@
 ## Binary Search
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
 2. [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+4. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
