@@ -6,6 +6,8 @@ class Solution {
         
         int left = 0, right = nums.length - 1;
         
+        // draw the line picture and find the pattern
+
         while (left < right - 1) {           
             int mid = left + (right -left) / 2;
             
