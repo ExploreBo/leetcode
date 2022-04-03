@@ -1,4 +1,4 @@
-# Completed Problems (Total: 28)
+# Completed Problems (Total: 30)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -23,7 +23,6 @@
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 
-
 ## HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
 
@@ -44,3 +43,8 @@
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
 2. [SortColors](https://leetcode.com/problems/sort-colors)
+
+
+
+## To be categorized
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
