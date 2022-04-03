@@ -38,3 +38,36 @@ class Solution {
     
     
 }
+
+// Quick Sort
+class Solution {
+    public int[] sortArray(int[] nums) {
+        sort(0, nums.length-1, nums);
+        return nums;
+    }
+    
+    private void sort(int lo, int hi, int[] nums) {
+        if (lo >= hi) return;
+        int j = partition(lo, hi, nums);
+        sort(lo,j-1,nums);
+        sort(j+1,hi,nums);
+    }
+    
+    private int partition(int lo, int hi, int[] nums) {
+        int i = lo; int j = hi+1;
+        while (true) {
+            while(nums[++i] < nums[lo]) if (i == hi) break;
+            while(nums[--j] > nums[lo]) if (j == lo) break;
+            if (i >= j) break;
+            swap(i,j,nums);
+        }
+        swap(lo,j,nums);                
+        return j;
+    }
+    
+    private void swap(int i, int j, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+}
