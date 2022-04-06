@@ -1,4 +1,4 @@
-# Completed Problems (Total: 31)
+# Completed Problems (Total: 32)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -44,6 +44,8 @@
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
 2. [SortColors](https://leetcode.com/problems/sort-colors)
 
+## BFS
+1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 
 
 ## To be categorized
