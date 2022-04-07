@@ -1,4 +1,4 @@
-# Completed Problems (Total: 32)
+# Completed Problems (Total: 33)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -46,6 +46,7 @@
 
 ## BFS
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 
 ## To be categorized
