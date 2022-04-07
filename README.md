@@ -1,4 +1,4 @@
-# Completed Problems (Total: 33)
+# Completed Problems (Total: 34)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -47,8 +47,13 @@
 ## BFS
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+3. [Clone Graph](https://leetcode.com/problems/clone-graph)
 
 
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
+## Union Find
+1. To be checked the solution: https://leetcode.com/problems/number-of-islands/discuss/56364/Java-Union-Find-Solution
