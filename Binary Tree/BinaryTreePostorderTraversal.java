@@ -13,6 +13,7 @@
  *     }
  * }
  */
+// recursion
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList();
@@ -26,5 +27,31 @@ class Solution {
             helper(node.right, result);
             result.add(node.val);
         }
+    }
+}
+
+// non-recursion, handle peek in 3 ways
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
+        List<Integer> result = new ArrayList();
+        if (root == null) {
+            return result;
+        }
+        TreeNode cur = root;
+        Stack<TreeNode> stack = new Stack<>();
+        stack.push(root);
+        while (!stack.isEmpty()) {
+            TreeNode peek = stack.peek();
+            if (peek.left != null && peek.left != cur && peek.right != cur) {
+                stack.push(peek.left);
+            } else if (peek.right != null && peek.right != cur) {
+                stack.push(peek.right);
+            } else {
+                // leaf node
+                result.add(stack.pop().val);
+                cur = peek;
+            }
+        }
+        return result;
     }
 }
