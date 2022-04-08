@@ -1,4 +1,4 @@
-# Completed Problems (Total: 34)
+# Completed Problems (Total: 37)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -49,11 +49,17 @@
 2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 3. [Clone Graph](https://leetcode.com/problems/clone-graph)
 
+## Binary Tree
+1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+2. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
 
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 
+# ToDo
 ## Union Find
 1. To be checked the solution: https://leetcode.com/problems/number-of-islands/discuss/56364/Java-Union-Find-Solution

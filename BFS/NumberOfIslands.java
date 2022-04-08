@@ -21,10 +21,10 @@ class Solution {
             return;
         }
         grid[i][j] = '0';        
-        checkLand(i - 1, j, grid);
-        checkLand(i + 1, j, grid);
-        checkLand(i, j - 1, grid);
-        checkLand(i, j + 1, grid);
+        clearRestOfLand(i - 1, j, grid);
+        clearRestOfLand(i + 1, j, grid);
+        clearRestOfLand(i, j - 1, grid);
+        clearRestOfLand(i, j + 1, grid);
     }
 }
 
