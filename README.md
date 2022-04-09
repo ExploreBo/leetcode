@@ -56,6 +56,7 @@
 4. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 5. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 6. [Same Tree](https://leetcode.com/problems/same-tree/)
+7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 
 ## To be categorized
