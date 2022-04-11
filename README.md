@@ -1,4 +1,4 @@
-# Completed Problems (Total: 42)
+# Completed Problems (Total: 43)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
