@@ -1,4 +1,4 @@
-# Completed Problems (Total: 40)
+# Completed Problems (Total: 42)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -48,6 +48,10 @@
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 3. [Clone Graph](https://leetcode.com/problems/clone-graph)
+
+## DFS
+1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+2. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 
 ## Binary Tree
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
