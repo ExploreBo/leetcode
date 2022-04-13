@@ -11,7 +11,9 @@ class Solution {
             list.add(new ArrayList<>(tempList));
         } else{
             for(int i = 0; i < nums.length; i++){
-                if(used[i] || i > 0 && nums[i] == nums[i-1] && !used[i - 1]) continue;
+                // !used[i - 1] only eliminates the consecutive case, like 1,2,2,3
+                // but it won't eliminate 1,2,3,2
+                if (used[i] || i > 0 && nums[i] == nums[i-1] && !used[i - 1]) continue;
                 used[i] = true; 
                 tempList.add(nums[i]);
                 premuteUtil(list, tempList, nums, used);
