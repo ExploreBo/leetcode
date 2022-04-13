@@ -11,7 +11,7 @@ class Solution {
             result.add(new ArrayList<Integer>(solution));
             return;
         }
-        for(int i= start; i<= n; i++){
+        for (int i = start; i <= n; i++){
             solution.add(i);
             combineUtil(result, solution, n, k, i + 1);
             solution.remove(solution.size() - 1);

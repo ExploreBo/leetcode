@@ -1,4 +1,4 @@
-# Completed Problems (Total: 46)
+# Completed Problems (Total: 48)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -55,6 +55,8 @@
 3. [Permutations](https://leetcode.com/problems/permutations)
 4. [Permutations II](https://leetcode.com/problems/permutations-ii)
 5. [Combinations](https://leetcode.com/problems/combinations)
+6. [Subsets](https://leetcode.com/problems/subsets)
+7. [SubSets II](https://leetcode.com/problems/subsets-ii/)
 
 ## Binary Tree
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
