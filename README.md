@@ -1,4 +1,4 @@
-# Completed Problems (Total: 48)
+# Completed Problems (Total: 49)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -31,6 +31,7 @@
 
 ## Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
+2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Binary Search
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
