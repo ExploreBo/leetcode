@@ -1,4 +1,4 @@
-# Completed Problems (Total: 49)
+# Completed Problems (Total: 50)
 ## String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
@@ -68,6 +68,8 @@
 6. [Same Tree](https://leetcode.com/problems/same-tree/)
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
+## Union Find
+1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #1 in BFS
 
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
