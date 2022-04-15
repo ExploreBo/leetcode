@@ -69,13 +69,8 @@
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 ## Union Find
-1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #1 in BFS
+1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
 
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-
-
-# ToDo
-## Union Find
-1. To be checked the solution: https://leetcode.com/problems/number-of-islands/discuss/56364/Java-Union-Find-Solution
