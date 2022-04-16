@@ -1,6 +1,6 @@
-# Completed Problems (Total: 52)
+# Completed Problems (Total: 54)
 
-## Data Structure (Total: 25)
+## Data Structure (27)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -42,6 +42,10 @@
 ### ComplexDataStructure
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+#### Trie
+1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+2. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 
 
 ## Binary Search
