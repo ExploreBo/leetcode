@@ -1,5 +1,8 @@
-# Completed Problems (Total: 50)
-## String
+# Completed Problems (Total: 52)
+
+## Data Structure (Total: 25)
+
+### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
 2. [Reverse String](https://leetcode.com/problems/reverse-string)
 3. [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
@@ -15,23 +18,31 @@
 13. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)
 14. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 
-## Array
+### Array
 1. [TwoSum](https://leetcode.com/problems/two-sum)
 2. [Remove Element](https://leetcode.com/problems/remove-element)
 
-## Linked List
+### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 
-## HashMap
+### HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
 
-## HashSet
+### HashSet
 1. [Design HashSet](https://leetcode.com/problems/design-hashset)
 
-## Stack
+### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
 2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+### Union Find
+1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
+
+### ComplexDataStructure
+1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
 
 ## Binary Search
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
@@ -68,8 +79,6 @@
 6. [Same Tree](https://leetcode.com/problems/same-tree/)
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
-## Union Find
-1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
 
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
