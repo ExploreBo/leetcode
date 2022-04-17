@@ -1,0 +1,12 @@
+Heap:
+
+Add and Remove: https://www.youtube.com/watch?v=7KhYwHfx40U
+
+Add:
+	- insert next available space
+	- trickle up (fix heap violation)
+
+Remove:
+	- remove root
+	- replace with the last leaf node (element)
+	- trickle down (swap with the larger child)

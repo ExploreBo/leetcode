@@ -1,6 +1,6 @@
-# Completed Problems (Total: 55)
+# Completed Problems (Total: 56)
 
-## Data Structure (28)
+## Data Structure (29)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -49,6 +49,7 @@
 
 #### Heap
 1. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
 
 ## Binary Search
