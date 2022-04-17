@@ -1,6 +1,6 @@
-# Completed Problems (Total: 54)
+# Completed Problems (Total: 55)
 
-## Data Structure (27)
+## Data Structure (28)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -46,6 +46,9 @@
 #### Trie
 1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 2. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+
+#### Heap
+1. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 
 ## Binary Search
