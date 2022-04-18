@@ -1,4 +1,4 @@
-# Completed Problems (Total: 60)
+# Completed Problems (Total: 61)
 
 ## Data Structure (32)
 
@@ -95,3 +95,4 @@
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
