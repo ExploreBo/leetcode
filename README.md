@@ -1,6 +1,6 @@
-# Completed Problems (Total: 58)
+# Completed Problems (Total: 60)
 
-## Data Structure (31)
+## Data Structure (32)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -35,6 +35,7 @@
 ### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
 2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+3. [MonotonicStack: Next Greater Node In LinkedList](https://leetcode.com/problems/next-greater-node-in-linked-list)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
@@ -65,6 +66,7 @@
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
 2. [SortColors](https://leetcode.com/problems/sort-colors)
+3. [Bucket Sort: top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
 ## BFS
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
