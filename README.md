@@ -1,6 +1,6 @@
-# Completed Problems (Total: 61)
+# Completed Problems (Total: 62)
 
-## Data Structure (32)
+## Data Structure (33)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -53,6 +53,9 @@
 2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 4. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+#### Sweap Line
+1. [ Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
 
 
 ## Binary Search
