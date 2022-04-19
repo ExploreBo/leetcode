@@ -1,6 +1,6 @@
-# Completed Problems (Total: 64)
+# Completed Problems (Total: 66)
 
-## Data Structure (35)
+## Data Structure (37)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -36,6 +36,7 @@
 1. [Min Stack](https://leetcode.com/problems/min-stack)
 2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 3. [MonotonicStack: Next Greater Node In LinkedList](https://leetcode.com/problems/next-greater-node-in-linked-list)
+4. [Decode String](https://leetcode.com/problems/decode-string/)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
@@ -58,6 +59,9 @@
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
 2. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 3. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+
+#### Segment Tree
+1. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 
 
 ## Binary Search
