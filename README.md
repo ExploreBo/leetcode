@@ -1,4 +1,4 @@
-# Completed Problems (Total: 75)
+# Completed Problems (Total: 76)
 
 ## Data Structure (37)
 
@@ -75,6 +75,7 @@
 8. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 9. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 10. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+11. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
