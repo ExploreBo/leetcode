@@ -1,4 +1,4 @@
-# Completed Problems (Total: 72)
+# Completed Problems (Total: 73)
 
 ## Data Structure (37)
 
@@ -72,6 +72,7 @@
 5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
 7. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+8. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
