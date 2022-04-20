@@ -1,4 +1,4 @@
-# Completed Problems (Total: 74)
+# Completed Problems (Total: 75)
 
 ## Data Structure (37)
 
@@ -74,6 +74,7 @@
 7. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 8. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 9. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+10. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
