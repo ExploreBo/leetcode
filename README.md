@@ -1,4 +1,4 @@
-# Completed Problems (Total: 71)
+# Completed Problems (Total: 72)
 
 ## Data Structure (37)
 
@@ -68,9 +68,10 @@
 1. [Binary Search](https://leetcode.com/problems/binary-search/)
 2. [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 3. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
-4. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
+4. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
 5. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
 6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
+7. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
