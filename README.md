@@ -1,4 +1,4 @@
-# Completed Problems (Total: 66)
+# Completed Problems (Total: 71)
 
 ## Data Structure (37)
 
@@ -101,7 +101,23 @@
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 
+## Dynamic Programming
+
+### BackPacking
+1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
+2. [0/1 BackPacking II: weights and values](https://www.lintcode.com/problem/125)
+3. [BackPacking III](https://www.lintcode.com/problem/440)
+
+### Greedy
+1. [Jump Game](https://leetcode.com/problems/jump-game/)
+2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+
+
 ## To be categorized
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+## Todo:
+1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
+
