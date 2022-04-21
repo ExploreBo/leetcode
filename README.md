@@ -1,6 +1,6 @@
-# Completed Problems (Total: 80)
+# Completed Problems (Total: 83)
 
-## Data Structure (38)
+## Data Structure (39)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -22,6 +22,7 @@
 1. [TwoSum](https://leetcode.com/problems/two-sum)
 2. [Remove Element](https://leetcode.com/problems/remove-element)
 3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+4. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -83,6 +84,7 @@
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
 2. [SortColors](https://leetcode.com/problems/sort-colors)
 3. [Bucket Sort: top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
+4. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ## BFS
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
@@ -111,6 +113,7 @@
 ## Fast/Slow Pointer
 1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+3. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 
 
