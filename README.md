@@ -1,6 +1,6 @@
-# Completed Problems (Total: 77)
+# Completed Problems (Total: 80)
 
-## Data Structure (37)
+## Data Structure (38)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -21,6 +21,7 @@
 ### Array
 1. [TwoSum](https://leetcode.com/problems/two-sum)
 2. [Remove Element](https://leetcode.com/problems/remove-element)
+3. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -107,6 +108,12 @@
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 
+## Fast/Slow Pointer
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
+
+
+
 ## Dynamic Programming
 
 ### BackPacking
@@ -126,4 +133,5 @@
 
 ## Todo:
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
+2. https://leetcode.com/problems/median-of-two-sorted-arrays/
 
