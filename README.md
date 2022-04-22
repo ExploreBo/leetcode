@@ -1,4 +1,4 @@
-# Completed Problems (Total: 85)
+# Completed Problems (Total: 86)
 
 ## Data Structure (40)
 
@@ -116,6 +116,7 @@
 2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 3. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 4. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+5. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
 
 ## Dynamic Programming
