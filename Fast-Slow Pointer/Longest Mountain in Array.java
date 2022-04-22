@@ -1,28 +1,27 @@
 // two pointers. Time Complexity: O(N)
 class Solution {
-    public int longestMountain(int[] A) {
-        int N = A.length;
-        int ans = 0, base = 0;
-        while (base < N) {
-            int end = base;
-            // if base is a left-boundary
-            if (end + 1 < N && A[end] < A[end + 1]) {
-                // set end to the peak of this potential mountain
-                while (end + 1 < N && A[end] < A[end + 1]) end++;
-
-                // if end is really a peak..
-                if (end + 1 < N && A[end] > A[end + 1]) {
-                    // set end to the right-boundary of mountain
-                    while (end + 1 < N && A[end] > A[end + 1]) end++;
-                    // record candidate answer
-                    ans = Math.max(ans, end - base + 1);
+    public int longestMountain(int[] arr) {
+        int max = 0;
+        int start = 0;
+        int n = arr.length;
+        while (start < arr.length) {
+            int end = start;
+            if (end + 1 < n && arr[end + 1] > arr[end]) {
+                while (end + 1 < n && arr[end + 1] > arr[end]) {
+                    end++;
+                }
+                if (end + 1 < n && arr[end + 1] < arr[end]) {
+                    while (end + 1 < n && arr[end + 1] < arr[end]) {
+                        end++;
+                    }
+                    // max will be updated only if the mountain exist
+                    max = Math.max(max, end - start + 1);
                 }
             }
-
-            base = Math.max(end, base + 1);
+            // the start should be updated every time to avoid infinite loop
+            start = Math.max(start + 1, end);
         }
-
-        return ans;
+        return max;
     }
 }
 
