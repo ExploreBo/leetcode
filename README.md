@@ -1,4 +1,4 @@
-# Completed Problems (Total: 86)
+# Completed Problems (Total: 87)
 
 ## Data Structure (40)
 
@@ -117,6 +117,9 @@
 3. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 4. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 5. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+## Big Integer
+1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 
 
 ## Dynamic Programming
