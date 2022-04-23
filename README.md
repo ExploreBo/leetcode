@@ -1,6 +1,6 @@
-# Completed Problems (Total: 93)
+# Completed Problems (Total: 94)
 
-## Data Structure (44)
+## Data Structure (45)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -32,6 +32,7 @@
 4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 5. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 6. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+7. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 ### HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
