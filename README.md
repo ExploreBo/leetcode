@@ -1,6 +1,6 @@
-# Completed Problems (Total: 90)
+# Completed Problems (Total: 92)
 
-## Data Structure (41)
+## Data Structure (43)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -29,6 +29,8 @@
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 3. [Partition List](https://leetcode.com/problems/partition-list/)
+4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+5. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ### HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
