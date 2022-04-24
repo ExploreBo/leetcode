@@ -1,4 +1,4 @@
-# Completed Problems (Total: 97)
+# Completed Problems (Total: 98)
 
 ## Data Structure (47)
 
@@ -127,6 +127,7 @@
 6. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 8. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+9. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
