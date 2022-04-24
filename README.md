@@ -1,4 +1,4 @@
-# Completed Problems (Total: 96)
+# Completed Problems (Total: 97)
 
 ## Data Structure (47)
 
@@ -118,7 +118,7 @@
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 
 
-## Fast/Slow Pointer
+## Multiple Pointers
 1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 2. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
 3. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
@@ -126,6 +126,7 @@
 5. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 6. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
+8. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
