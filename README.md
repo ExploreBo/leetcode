@@ -1,6 +1,6 @@
-# Completed Problems (Total: 95)
+# Completed Problems (Total: 96)
 
-## Data Structure (46)
+## Data Structure (47)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -26,6 +26,7 @@
 5. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 6. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 7. [Insert Intervals](https://leetcode.com/problems/insert-interval)
+8. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
