@@ -1,6 +1,6 @@
-# Completed Problems (Total: 98)
+# Completed Problems (Total: 99)
 
-## Data Structure (47)
+## Data Structure (48)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -17,6 +17,7 @@
 12. [Camelcase Matching](https://leetcode.com/problems/camelcase-matching)
 13. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)
 14. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
+15. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
 ### Array
 1. [TwoSum](https://leetcode.com/problems/two-sum)
