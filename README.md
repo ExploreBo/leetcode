@@ -1,6 +1,6 @@
-# Completed Problems (Total: 109)
+# Completed Problems (Total: 110)
 
-## Data Structure (55)
+## Data Structure (56)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -35,6 +35,7 @@
 12. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 13. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 14. [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
+15. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
