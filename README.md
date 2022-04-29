@@ -1,6 +1,6 @@
-# Completed Problems (Total: 103)
+# Completed Problems (Total: 104)
 
-## Data Structure (50)
+## Data Structure (51)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -30,6 +30,7 @@
 7. [Insert Intervals](https://leetcode.com/problems/insert-interval)
 8. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 9. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+10. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
