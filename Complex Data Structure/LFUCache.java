@@ -1,3 +1,6 @@
+/*
+HashMap (nodeMap: to locate the node in O(1) time + countMap: to get the doubleNodeList by frequency) + DoublyLinkedList
+*/
 class LFUCache {
     class Node {
         int key, val, cnt;

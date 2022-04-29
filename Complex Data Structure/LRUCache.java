@@ -16,7 +16,7 @@ class LRUCache {
     }
 
     public int get(int key) {
-        if(map.containsKey(key)) {
+        if (map.containsKey(key)) {
             int value = map.remove(key);
             map.put(key, value);
             return value;
@@ -25,10 +25,10 @@ class LRUCache {
     }
 
     public void put(int key, int value) {
-        if(map.containsKey(key)) {
+        if (map.containsKey(key)) {
             // Insertion order is not affected if a key is re-inserted into the map.
             map.remove(key);
-        }else if(map.size() + 1 > SIZE) {
+        } else if(map.size() + 1 > SIZE) {
             map.remove(map.keySet().iterator().next());
         }
         map.put(key, value);
