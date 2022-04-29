@@ -1,4 +1,4 @@
-# Completed Problems (Total: 104)
+# Completed Problems (Total: 105)
 
 ## Data Structure (51)
 
@@ -134,6 +134,7 @@
 9. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 11. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
