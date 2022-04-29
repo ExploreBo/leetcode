@@ -1,6 +1,6 @@
-# Completed Problems (Total: 106)
+# Completed Problems (Total: 107)
 
-## Data Structure (52)
+## Data Structure (53)
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
@@ -32,6 +32,7 @@
 9. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
 10. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 11. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+12. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
