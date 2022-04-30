@@ -1,6 +1,6 @@
 # Completed Problems (Total: 115)
 
-## Data Structure (61)
+## Data Structure
 
 ### String
 1. [To Lower Case](https://leetcode.com/problems/to-lower-case)
