@@ -1,4 +1,4 @@
-# Completed Problems (Total: 115)
+# Completed Problems (Total: 120)
 
 ## Data Structure
 
@@ -41,6 +41,7 @@
 18. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 19. [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 20. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+21. [Triangle Count](https://www.lintcode.com/problem/382)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -130,6 +131,10 @@
 5. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 6. [Same Tree](https://leetcode.com/problems/same-tree/)
 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+8. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+9. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+10. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+11. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 
 
 ## Multiple Pointers
