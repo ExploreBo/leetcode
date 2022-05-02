@@ -1,4 +1,4 @@
-# Completed Problems (Total: 120)
+# Completed Problems (Total: 125)
 
 ## Data Structure
 
@@ -154,6 +154,12 @@
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 
+## Topological Sorting
+1. [Topological Sorting](https://www.lintcode.com/problem/127)
+2. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+3. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+4. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+5. [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 
 ## Dynamic Programming
 
