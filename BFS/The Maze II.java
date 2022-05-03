@@ -1,4 +1,5 @@
 // BFS
+// Time complexity: O(m∗n∗max(m,n))
 public class Solution {
     public int shortestDistance(int[][] maze, int[] start, int[] dest) {
         int[][] distance = new int[maze.length][maze[0].length];

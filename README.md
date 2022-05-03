@@ -1,4 +1,4 @@
-# Completed Problems (Total: 129)
+# Completed Problems (Total: 130)
 
 ## Data Structure
 
@@ -116,6 +116,7 @@
 4. [The Maze](https://leetcode.com/problems/the-maze/)
 5. [The Maze II](https://leetcode.com/problems/the-maze-ii/)
 6. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
+7. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
