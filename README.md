@@ -1,4 +1,4 @@
-# Completed Problems (Total: 125)
+# Completed Problems (Total: 129)
 
 ## Data Structure
 
@@ -113,6 +113,9 @@
 1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 3. [Clone Graph](https://leetcode.com/problems/clone-graph)
+4. [The Maze](https://leetcode.com/problems/the-maze/)
+5. [The Maze II](https://leetcode.com/problems/the-maze-ii/)
+6. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -122,6 +125,7 @@
 5. [Combinations](https://leetcode.com/problems/combinations)
 6. [Subsets](https://leetcode.com/problems/subsets)
 7. [SubSets II](https://leetcode.com/problems/subsets-ii/)
+8. [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 ## Binary Tree
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
