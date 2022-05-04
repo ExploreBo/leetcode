@@ -1,4 +1,4 @@
-# Completed Problems (Total: 130)
+# Completed Problems (Total: 132)
 
 ## Data Structure
 
@@ -117,6 +117,7 @@
 5. [The Maze II](https://leetcode.com/problems/the-maze-ii/)
 6. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 7. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
+8. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -127,6 +128,7 @@
 6. [Subsets](https://leetcode.com/problems/subsets)
 7. [SubSets II](https://leetcode.com/problems/subsets-ii/)
 8. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+9. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 
 ## Binary Tree
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
@@ -186,4 +188,5 @@
 ## Todo:
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
 2. https://leetcode.com/problems/median-of-two-sorted-arrays/
+3. https://leetcode.com/problems/word-ladder
 
