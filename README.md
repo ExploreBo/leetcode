@@ -1,4 +1,4 @@
-# Completed Problems (Total: 134)
+# Completed Problems (Total: 136)
 
 ## Data Structure
 
@@ -140,6 +140,8 @@
 7. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 8. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 9. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+10. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+11. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 
 ### Check Tree's Character
 1. [Same Tree](https://leetcode.com/problems/same-tree/)
