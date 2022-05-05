@@ -1,4 +1,4 @@
-# Completed Problems (Total: 138)
+# Completed Problems (Total: 139)
 
 ## Data Structure
 
@@ -144,6 +144,7 @@
 11. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 12. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 13. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+14. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ### Check Tree's Character
 1. [Same Tree](https://leetcode.com/problems/same-tree/)
