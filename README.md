@@ -1,4 +1,4 @@
-# Completed Problems (Total: 136)
+# Completed Problems (Total: 138)
 
 ## Data Structure
 
@@ -134,14 +134,16 @@
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 2. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-4. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-5. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-7. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-8. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-9. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
-10. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-11. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+4. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+5. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+6. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+7. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+8. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+9. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+10. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+11. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+12. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+13. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 
 ### Check Tree's Character
 1. [Same Tree](https://leetcode.com/problems/same-tree/)
