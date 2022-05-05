@@ -31,6 +31,7 @@ class Solution {
 }
 
 
+// inOrder traversal
 // non-recursion, use Long.MIN_VALUE to avoid the Integer.MIN_VALUE problem
 class Solution {
     public boolean isValidBST(TreeNode root) {
@@ -56,7 +57,7 @@ class Solution {
     }
 }
 
-
+// inOrder traversal
 // non-recursion, use a node as pre, this could avoid MIN_VALUE case
 class Solution {
     public boolean isValidBST(TreeNode root) {

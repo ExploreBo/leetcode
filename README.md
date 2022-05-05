@@ -1,4 +1,4 @@
-# Completed Problems (Total: 132)
+# Completed Problems (Total: 134)
 
 ## Data Structure
 
@@ -136,12 +136,16 @@
 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 4. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 5. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-6. [Same Tree](https://leetcode.com/problems/same-tree/)
-7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
-8. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-9. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-10. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-11. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+7. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+8. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+9. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+
+### Check Tree's Character
+1. [Same Tree](https://leetcode.com/problems/same-tree/)
+2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+3. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+4. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 
 ## Multiple Pointers

@@ -35,9 +35,9 @@ class Solution {
         while(!queue.isEmpty()){
             TreeNode f = queue.poll();
             TreeNode s = queue.poll();
-            if(f == null && s == null){
+            if (f == null && s == null) {
                 continue;
-            }else if(f == null || s == null || f.val != s.val){
+            } else if(f == null || s == null || f.val != s.val) {
                 return false;
             }
             queue.add(f.left);
