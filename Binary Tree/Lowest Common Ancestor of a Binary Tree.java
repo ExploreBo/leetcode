@@ -47,7 +47,8 @@ class Solution {
 }
 
 /*
-
+Stack + DFS until find both p and q.
+Use hashmap to store ancestor of each node.
 */
 class Solution {
 
