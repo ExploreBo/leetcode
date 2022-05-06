@@ -14,8 +14,28 @@
  * }
  */
 
-
 // recursion
+class Solution {
+    public boolean hasPathSum(TreeNode root, int targetSum) {
+        if (root == null) return false;
+        return dfs(targetSum, root);
+    }
+    
+    private boolean dfs(int targetSum, TreeNode root) {
+        targetSum = targetSum - root.val;
+        if (root.left == null && root.right == null && 0 == targetSum) return true;
+        boolean result = false;
+        if (root.left != null) {
+            result = dfs(targetSum, root.left);
+        }
+        if (root.right != null) {
+            result =  result || dfs(targetSum, root.right);
+        }
+        return result;
+    }
+}
+
+// recursion. improved version of above.
 class Solution {
   public boolean hasPathSum(TreeNode root, int sum) {
     if (root == null)
@@ -26,29 +46,6 @@ class Solution {
       return (sum == 0);
     return hasPathSum(root.left, sum) || hasPathSum(root.right, sum);
   }
-}
-
-
-// recursion
-class Solution {
-    public boolean hasPathSum(TreeNode root, int targetSum) {
-        if (root == null) return false;
-        int sum = 0;
-        return dfs(0, targetSum, root);
-    }
-    
-    private boolean dfs(int sum, int targetSum, TreeNode root) {
-        sum += root.val;
-        if (root.left == null && root.right == null && sum == targetSum) return true;
-        boolean result = false;
-        if (root.left != null) {
-            result = dfs(sum, targetSum, root.left);
-        }
-        if (root.right != null) {
-            result =  result || dfs(sum, targetSum, root.right);
-        }
-        return result;
-    }
 }
 
 // Stack + DFS. Two stacks to maintian curr node and targetSum respectively.
@@ -64,7 +61,7 @@ class Solution {
 
     TreeNode node;
     int curr_sum;
-    while ( !node_stack.isEmpty() ) {
+    while (!node_stack.isEmpty()) {
       node = node_stack.pollLast();
       curr_sum = sum_stack.pollLast();
       if ((node.right == null) && (node.left == null) && (curr_sum == 0))

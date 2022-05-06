@@ -57,14 +57,9 @@ class Solution {
 }
 
 
-
-
-
-
 /*
 Inspired by one of the solutions in Lowest Common Ancestor. 
 Using hashmap to track the ancestor, running sum and everything.
-
 */
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
@@ -77,6 +72,7 @@ class Solution {
 
         // HashMap for parent pointers
         Map<TreeNode, TreeNode> parent = new HashMap<>();
+        // HashMap for running sum
         Map<TreeNode, Integer> sum = new HashMap();
         Set<TreeNode> set = new HashSet();
 

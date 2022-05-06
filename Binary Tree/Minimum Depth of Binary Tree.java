@@ -32,7 +32,7 @@ class Solution {
 /* iteration BFS. 
    in the worst case for a balanced tree we need to visit all nodes level by level up to the tree height, 
    that excludes the bottom level only. 
-   This way we visit N/2N/2 nodes, and thus the time complexity is O(N).
+   This way we visit N/2 nodes, and thus the time complexity is O(N).
 */
 class Solution {
     public int minDepth(TreeNode root) {
