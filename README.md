@@ -1,4 +1,4 @@
-# Completed Problems (Total: 143)
+# Completed Problems (Total: 147)
 
 ## Data Structure
 
@@ -110,14 +110,13 @@
 4. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ## BFS
-1. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
-2. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-3. [Clone Graph](https://leetcode.com/problems/clone-graph)
-4. [The Maze](https://leetcode.com/problems/the-maze/)
-5. [The Maze II](https://leetcode.com/problems/the-maze-ii/)
-6. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
-7. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
-8. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
+1. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+2. [Clone Graph](https://leetcode.com/problems/clone-graph)
+3. [The Maze](https://leetcode.com/problems/the-maze/)
+4. [The Maze II](https://leetcode.com/problems/the-maze-ii/)
+5. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
+6. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
+7. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -141,14 +140,22 @@
 8. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 9. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 10. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
-11. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-12. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
-13. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
-14. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-15. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-16. [Path Sum](https://leetcode.com/problems/path-sum)
-17. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-18. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+11. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+12. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+13. [Path Sum](https://leetcode.com/problems/path-sum)
+14. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+15. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+16. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+17. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+
+
+### (De)Serialization/ Tree Recontruction
+1. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+2. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+3. [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+4. [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+5. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+6. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 ### Check Tree's Character
 1. [Same Tree](https://leetcode.com/problems/same-tree/)
