@@ -1,4 +1,4 @@
-# Completed Problems (Total: 142)
+# Completed Problems (Total: 143)
 
 ## Data Structure
 
@@ -148,6 +148,7 @@
 15. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 16. [Path Sum](https://leetcode.com/problems/path-sum)
 17. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+18. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ### Check Tree's Character
 1. [Same Tree](https://leetcode.com/problems/same-tree/)
