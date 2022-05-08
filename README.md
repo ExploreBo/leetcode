@@ -1,4 +1,4 @@
-# Completed Problems (Total: 147)
+# Completed Problems (Total: 148)
 
 ## Data Structure
 
@@ -130,23 +130,27 @@
 9. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 
 ## Binary Tree
+1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+2. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+3. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+4. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+5. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+6. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+7. [Path Sum](https://leetcode.com/problems/path-sum)
+8. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+9. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+10. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+11. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+12. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+
+### Traversal
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 2. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
-4. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
-5. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-6. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-7. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
-8. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
-9. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-10. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
-11. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-12. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-13. [Path Sum](https://leetcode.com/problems/path-sum)
-14. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-15. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-16. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-17. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+4. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+5. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+6. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 
 ### (De)Serialization/ Tree Recontruction
