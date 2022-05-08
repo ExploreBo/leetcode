@@ -41,7 +41,7 @@ public class Solution {
                 dp[len] = nums[i];
             }
         }
-        return len+1;
+        return len + 1;
     }
     // not to find the exact value, but to find the expected position
     private int binarySearch(int[] dp, int len, int val) {

@@ -1,4 +1,4 @@
-# Completed Problems (Total: 148)
+# Completed Problems (Total: 149)
 
 ## Data Structure
 
@@ -142,6 +142,7 @@
 10. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 11. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 12. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+13. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 
 
 ### Traversal
