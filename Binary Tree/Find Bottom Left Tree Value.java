@@ -24,17 +24,17 @@ class Solution {
     }
 }
 
-// BFS, use global variables to track the level and first element of each level
+// DFS, use global variables to track the level and first element of each level
 public class Solution {
-    int ans=0, h=0;
+    int ans = 0, h = 0;
     public int findBottomLeftValue(TreeNode root) {
         findBottomLeftValue(root, 1);
         return ans;
     }
     public void findBottomLeftValue(TreeNode root, int depth) {
-        if (h<depth) {ans=root.val;h=depth;}
-        if (root.left!=null) findBottomLeftValue(root.left, depth+1);
-        if (root.right!=null) findBottomLeftValue(root.right, depth+1);
+        if (h < depth) {ans = root.val; h = depth;}
+        if (root.left != null) findBottomLeftValue(root.left, depth + 1);
+        if (root.right != null) findBottomLeftValue(root.right, depth + 1);
     }
 }
 

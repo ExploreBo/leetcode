@@ -1,4 +1,4 @@
-# Completed Problems (Total: 149)
+# Completed Problems (Total: 151)
 
 ## Data Structure
 
@@ -128,6 +128,7 @@
 7. [SubSets II](https://leetcode.com/problems/subsets-ii/)
 8. [Flood Fill](https://leetcode.com/problems/flood-fill/)
 9. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+10 .[Target Sum](https://leetcode.com/problems/target-sum)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
@@ -143,6 +144,7 @@
 11. [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
 12. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 13. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
+14. [Binary Tree Path Sum II](https://www.lintcode.com/problem/binary-tree-path-sum-ii)
 
 
 ### Traversal
