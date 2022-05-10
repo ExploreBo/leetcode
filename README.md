@@ -1,4 +1,4 @@
-# Completed Problems (Total: 151)
+# Completed Problems (Total: 153)
 
 ## Data Structure
 
@@ -128,7 +128,9 @@
 7. [SubSets II](https://leetcode.com/problems/subsets-ii/)
 8. [Flood Fill](https://leetcode.com/problems/flood-fill/)
 9. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
-10 .[Target Sum](https://leetcode.com/problems/target-sum)
+10. [Target Sum](https://leetcode.com/problems/target-sum)
+11. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+12. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
