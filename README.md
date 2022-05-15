@@ -1,4 +1,4 @@
-# Completed Problems (Total: 153)
+# Completed Problems (Total: 155)
 
 ## Data Structure
 
@@ -131,6 +131,8 @@
 10. [Target Sum](https://leetcode.com/problems/target-sum)
 11. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 12. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+13. [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)
+14. [Factor Combinations](https://leetcode.com/problems/factor-combinations/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
