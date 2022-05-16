@@ -1,4 +1,4 @@
-# Completed Problems (Total: 155)
+# Completed Problems (Total: 157)
 
 ## Data Structure
 
@@ -133,6 +133,8 @@
 12. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 13. [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)
 14. [Factor Combinations](https://leetcode.com/problems/factor-combinations/)
+15. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+16. [N-Queens](https://leetcode.com/problems/n-queens/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
@@ -220,4 +222,4 @@
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
 2. https://leetcode.com/problems/median-of-two-sorted-arrays/
 3. https://leetcode.com/problems/word-ladder
-
+4. https://leetcode.com/problems/remove-invalid-parentheses/
