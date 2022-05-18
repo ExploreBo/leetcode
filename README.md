@@ -1,4 +1,4 @@
-# Completed Problems (Total: 157)
+# Completed Problems (Total: 159)
 
 ## Data Structure
 
@@ -202,6 +202,9 @@
 5. [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 
 ## Dynamic Programming
+
+1. [Word Break](https://leetcode.com/problems/word-break)
+2. [Word Break II](https://leetcode.com/problems/word-break-ii)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
