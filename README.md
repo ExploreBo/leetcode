@@ -1,4 +1,4 @@
-# Completed Problems (Total: 159)
+# Completed Problems (Total: 160)
 
 ## Data Structure
 
@@ -19,6 +19,7 @@
 14. [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 15. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 16. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+17. [Word Pattern](https://leetcode.com/problems/word-pattern)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
