@@ -1,4 +1,4 @@
-# Completed Problems (Total: 160)
+# Completed Problems (Total: 162)
 
 ## Data Structure
 
@@ -118,6 +118,7 @@
 5. [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)
 6. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
 7. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
+8. [Word Ladder](https://leetcode.com/problems/word-ladder/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -136,6 +137,7 @@
 14. [Factor Combinations](https://leetcode.com/problems/factor-combinations/)
 15. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
 16. [N-Queens](https://leetcode.com/problems/n-queens/)
+17. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
