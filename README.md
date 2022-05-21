@@ -1,4 +1,4 @@
-# Completed Problems (Total: 162)
+# Completed Problems (Total: 166)
 
 ## Data Structure
 
@@ -208,6 +208,10 @@
 
 1. [Word Break](https://leetcode.com/problems/word-break)
 2. [Word Break II](https://leetcode.com/problems/word-break-ii)
+3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+4. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
+5. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+6. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
