@@ -1,4 +1,4 @@
-# Completed Problems (Total: 167)
+# Completed Problems (Total: 168)
 
 ## Data Structure
 
@@ -213,6 +213,7 @@
 5. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 6. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 7. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+8. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
