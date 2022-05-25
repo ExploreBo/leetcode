@@ -61,6 +61,7 @@ class Solution {
 
 
 // DP. From bottom to up.
+// dp[i][j] means whether test.substring(i) and pattern.substring(j) matches.
 class Solution {
     public boolean isMatch(String text, String pattern) {
         boolean[][] dp = new boolean[text.length() + 1][pattern.length() + 1];

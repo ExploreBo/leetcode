@@ -1,4 +1,4 @@
-# Completed Problems (Total: 166)
+# Completed Problems (Total: 167)
 
 ## Data Structure
 
@@ -212,6 +212,7 @@
 4. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
 5. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 6. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+7. [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
@@ -231,5 +232,4 @@
 ## Todo:
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
 2. https://leetcode.com/problems/median-of-two-sorted-arrays/
-3. https://leetcode.com/problems/word-ladder
-4. https://leetcode.com/problems/remove-invalid-parentheses/
+3. https://leetcode.com/problems/remove-invalid-parentheses/
