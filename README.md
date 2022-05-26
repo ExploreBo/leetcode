@@ -1,4 +1,4 @@
-# Completed Problems (Total: 169)
+# Completed Problems (Total: 170)
 
 ## Data Structure
 
@@ -224,6 +224,7 @@
 ### Greedy
 1. [Jump Game](https://leetcode.com/problems/jump-game/)
 2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+3. [Partition Labels](https://leetcode.com/problems/partition-labels)
 
 
 ## To be categorized
