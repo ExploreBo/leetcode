@@ -1,4 +1,4 @@
-# Completed Problems (Total: 170)
+# Completed Problems (Total: 171)
 
 ## Data Structure
 
@@ -215,6 +215,7 @@
 7. [Decode Ways](https://leetcode.com/problems/decode-ways/)
 8. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 9. [Maximal Square](https://leetcode.com/problems/maximal-square/)
+10. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
