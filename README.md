@@ -1,4 +1,4 @@
-# Completed Problems (Total: 171)
+# Completed Problems (Total: 172)
 
 ## Data Structure
 
@@ -43,6 +43,7 @@
 19. [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 20. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 21. [Triangle Count](https://www.lintcode.com/problem/382)
+22. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
