@@ -1,4 +1,4 @@
-# Completed Problems (Total: 172)
+# Completed Problems (Total: 173)
 
 ## Data Structure
 
@@ -44,6 +44,7 @@
 20. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 21. [Triangle Count](https://www.lintcode.com/problem/382)
 22. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+23. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
