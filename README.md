@@ -1,4 +1,4 @@
-# Completed Problems (Total: 173)
+# Completed Problems (Total: 175)
 
 ## Data Structure
 
@@ -45,6 +45,8 @@
 21. [Triangle Count](https://www.lintcode.com/problem/382)
 22. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 23. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+24. [Rotate Image](https://leetcode.com/problems/rotate-image)
+25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
