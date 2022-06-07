@@ -1,4 +1,4 @@
-# Completed Problems (Total: 175)
+# Completed Problems (Total: 176)
 
 ## Data Structure
 
@@ -47,6 +47,7 @@
 23. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 24. [Rotate Image](https://leetcode.com/problems/rotate-image)
 25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
+26. [Game of Life](https://leetcode.com/problems/game-of-life/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
