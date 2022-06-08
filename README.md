@@ -1,4 +1,4 @@
-# Completed Problems (Total: 176)
+# Completed Problems (Total: 180)
 
 ## Data Structure
 
@@ -20,6 +20,10 @@
 15. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 16. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 17. [Word Pattern](https://leetcode.com/problems/word-pattern)
+18. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+19. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+20. [String Compression](https://leetcode.com/problems/string-compression/)
+21. [Text Justification](https://leetcode.com/problems/text-justification/)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
