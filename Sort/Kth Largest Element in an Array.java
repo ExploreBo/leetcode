@@ -64,3 +64,11 @@ class Solution {
         return heap.poll();        
   }
 }
+
+// Built-in Sort
+class Solution {
+    public int findKthLargest(int[] nums, int k) {
+        Arrays.sort(nums);
+        return nums[nums.length - k];
+    }
+}

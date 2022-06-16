@@ -1,4 +1,4 @@
-# Completed Problems (Total: 185)
+# Completed Problems (Total: 187)
 
 ## Data Structure
 
@@ -65,6 +65,8 @@
 9. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 10. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 11. [Sort List](https://leetcode.com/problems/sort-list)
+12. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+13. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 ### HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)

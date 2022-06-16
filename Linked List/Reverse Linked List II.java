@@ -52,19 +52,18 @@ class Solution {
 
 // simpler version
 class Solution {
-    public ListNode reverseBetween(ListNode head, int m, int n) {
-        ListNode fakeHead = new ListNode(-1);
-        fakeHead.next = head;
+    public ListNode reverseBetween(ListNode head, int left, int right) {
+        ListNode fakeHead = new ListNode(-1, head);
         ListNode prev = fakeHead;
         ListNode curr = fakeHead.next;
         int i = 1;
-        while (i < m) {
+        while (i < left) {
             prev = curr;
             curr = curr.next;
             i++;
         }
         ListNode node = prev;
-        while (i <= n) {
+        while (i <= right) {
             ListNode tmp = curr.next;
             curr.next = prev;
             prev = curr;
