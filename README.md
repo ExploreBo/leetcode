@@ -1,4 +1,4 @@
-# Completed Problems (Total: 188)
+# Completed Problems (Total: 191)
 
 ## Data Structure
 
@@ -69,11 +69,12 @@
 13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 14. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
-### HashMap
+### Hash
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
-
-### HashSet
-1. [Design HashSet](https://leetcode.com/problems/design-hashset)
+2. [Design HashSet](https://leetcode.com/problems/design-hashset)
+3. [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+4. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+5. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 ### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
