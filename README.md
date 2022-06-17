@@ -1,4 +1,4 @@
-# Completed Problems (Total: 187)
+# Completed Problems (Total: 188)
 
 ## Data Structure
 
@@ -55,18 +55,19 @@
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
-2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
-3. [Partition List](https://leetcode.com/problems/partition-list/)
-4. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
-5. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-6. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-7. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-8. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-9. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-10. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-11. [Sort List](https://leetcode.com/problems/sort-list)
-12. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-13. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+2. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+3. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+4. [Partition List](https://leetcode.com/problems/partition-list/)
+5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+7. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+8. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+9. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+10. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+11. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+12. [Sort List](https://leetcode.com/problems/sort-list)
+13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+14. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 ### HashMap
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
