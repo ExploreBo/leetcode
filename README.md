@@ -1,4 +1,4 @@
-# Completed Problems (Total: 191)
+# Completed Problems (Total: 192)
 
 ## Data Structure
 
@@ -98,6 +98,7 @@
 2. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 4. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+5. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
