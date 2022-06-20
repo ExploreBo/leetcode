@@ -1,4 +1,4 @@
-# Completed Problems (Total: 192)
+# Completed Problems (Total: 193)
 
 ## Data Structure
 
@@ -99,6 +99,7 @@
 3. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 4. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 5. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+6. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
