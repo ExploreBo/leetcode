@@ -1,4 +1,4 @@
-# Completed Problems (Total: 193)
+# Completed Problems (Total: 195)
 
 ## Data Structure
 
@@ -81,6 +81,7 @@
 2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 3. [MonotonicStack: Next Greater Node In LinkedList](https://leetcode.com/problems/next-greater-node-in-linked-list)
 4. [Decode String](https://leetcode.com/problems/decode-string/)
+5. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
@@ -88,6 +89,7 @@
 ### ComplexDataStructure
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+3. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
 #### Trie
 1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
