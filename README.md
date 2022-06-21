@@ -1,4 +1,4 @@
-# Completed Problems (Total: 195)
+# Completed Problems (Total: 196)
 
 ## Data Structure
 
@@ -90,6 +90,7 @@
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 3. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+4. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
 #### Trie
 1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
