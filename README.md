@@ -1,4 +1,4 @@
-# Completed Problems (Total: 198)
+# Completed Problems (Total: 200)
 
 ## Data Structure
 
@@ -82,6 +82,8 @@
 3. [MonotonicStack: Next Greater Node In LinkedList](https://leetcode.com/problems/next-greater-node-in-linked-list)
 4. [Decode String](https://leetcode.com/problems/decode-string/)
 5. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+6. [Basic Calculator](https://leetcode.com/problems/basic-calculator)
+7. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
