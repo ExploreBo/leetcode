@@ -1,4 +1,4 @@
-# Completed Problems (Total: 200)
+# Completed Problems (Total: 202)
 
 ## Data Structure
 
@@ -84,6 +84,8 @@
 5. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 6. [Basic Calculator](https://leetcode.com/problems/basic-calculator)
 7. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)
+8. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+9. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
