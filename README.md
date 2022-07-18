@@ -1,4 +1,4 @@
-# Completed Problems (Total: 202)
+# Completed Problems (Total: 207)
 
 ## Data Structure
 
@@ -24,6 +24,11 @@
 19. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 20. [String Compression](https://leetcode.com/problems/string-compression/)
 21. [Text Justification](https://leetcode.com/problems/text-justification/)
+22. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+23. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+24. [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)
+25. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
