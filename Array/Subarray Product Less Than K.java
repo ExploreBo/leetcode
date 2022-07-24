@@ -10,7 +10,7 @@ class Solution {
                 product /= nums[left++];
             }
             if (product < k) {
-                // each time add right - left + 1, means itself, itself and the previous one, itself previous and pre-previous one, and so on until the left
+                // 2,3,5 -> [2], [2, 3], [2, 3, 5]
                 count += right - left + 1;
             }
         }

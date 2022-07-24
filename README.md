@@ -1,4 +1,4 @@
-# Completed Problems (Total: 207)
+# Completed Problems (Total: 208)
 
 ## Data Structure
 
@@ -29,6 +29,7 @@
 24. [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)
 25. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+27. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
