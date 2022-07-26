@@ -1,4 +1,4 @@
-# Completed Problems (Total: 209)
+# Completed Problems (Total: 212)
 
 ## Data Structure
 
@@ -223,12 +223,15 @@
 4. [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
 5. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 6. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-7. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
-8. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-9. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-11. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-12. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+7. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+8. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
+9. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+10. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+12. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+13. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+14. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+15. [Happy Number](https://leetcode.com/problems/happy-number/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
