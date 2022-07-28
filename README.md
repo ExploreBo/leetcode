@@ -1,4 +1,4 @@
-# Completed Problems (Total: 212)
+# Completed Problems (Total: 218)
 
 ## Data Structure
 
@@ -59,6 +59,10 @@
 25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 26. [Game of Life](https://leetcode.com/problems/game-of-life/)
 27. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+28. [Missing Number](https://leetcode.com/problems/missing-number/)
+29. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+30. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+31. [Single Number](https://leetcode.com/problems/single-number)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -121,6 +125,7 @@
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
 2. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 3. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+4. [Employee Free Time](https://leetcode.com/problems/employee-free-time)
 
 #### Segment Tree
 1. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
@@ -232,6 +237,7 @@
 13. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 14. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 15. [Happy Number](https://leetcode.com/problems/happy-number/)
+16. [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)

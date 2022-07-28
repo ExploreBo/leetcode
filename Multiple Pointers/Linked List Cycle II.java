@@ -26,7 +26,7 @@ public class Solution {
     }
 }
 
-// hare and turtle
+// hare and tortoise
 public class Solution {
     private ListNode getIntersect(ListNode head) {
         ListNode tortoise = head;
