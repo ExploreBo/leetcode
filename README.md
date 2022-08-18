@@ -1,4 +1,4 @@
-# Completed Problems (Total: 218)
+# Completed Problems (Total: 219)
 
 ## Data Structure
 
@@ -63,6 +63,7 @@
 29. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 30. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 31. [Single Number](https://leetcode.com/problems/single-number)
+32. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
