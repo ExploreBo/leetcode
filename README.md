@@ -1,4 +1,4 @@
-# Completed Problems (Total: 219)
+# Completed Problems (Total: 220)
 
 ## Data Structure
 
@@ -161,6 +161,7 @@
 6. [0 1 Matrix](https://leetcode.com/problems/01-matrix)
 7. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 8. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+9. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
