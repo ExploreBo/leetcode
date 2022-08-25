@@ -79,3 +79,31 @@ class Solution {
     return false;
   }
 }
+
+// One stack. Using a pre to determine whether to backtrack or go right.
+public boolean hasPathSum(TreeNode root, int target) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode pre = null, curr = root;
+        int sum = 0;
+        
+        while (curr != null || !stack.isEmpty()) {
+            while (curr != null) {
+                stack.push(curr);
+                sum += curr.val;
+                curr = curr.left;
+            }
+            curr = stack.peek();
+            if (curr.left == null && curr.right == null && sum == target)
+                return true;
+            if (curr.right != null && pre != curr.right)
+                curr = curr.right;
+            else {
+                pre = curr;
+                stack.pop();
+                sum -= curr.val;
+                curr = null;
+            }
+        }
+        
+        return false;
+    }
