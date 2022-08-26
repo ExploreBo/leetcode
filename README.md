@@ -1,4 +1,4 @@
-# Completed Problems (Total: 222)
+# Completed Problems (Total: 223)
 
 ## Data Structure
 
@@ -182,6 +182,7 @@
 16. [N-Queens](https://leetcode.com/problems/n-queens/)
 17. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 18. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+19. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
