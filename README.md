@@ -31,6 +31,11 @@
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 27. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
+
+###
+1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+
+
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
 2. [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) 
@@ -121,6 +126,8 @@
 4. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 5. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 6. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+7. [IPO](https://leetcode.com/problems/ipo/)
+8. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
