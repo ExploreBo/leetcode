@@ -1,4 +1,4 @@
-# Completed Problems (Total: 223)
+# Completed Problems (Total: 227)
 
 ## Data Structure
 
@@ -260,6 +260,7 @@
 3. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 4. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 5. [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
+6. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
 ## Dynamic Programming
 
