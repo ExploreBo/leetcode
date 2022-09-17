@@ -1,4 +1,4 @@
-# Completed Problems (Total: 227)
+# Completed Problems (Total: 228)
 
 ## Data Structure
 
@@ -128,6 +128,7 @@
 6. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 7. [IPO](https://leetcode.com/problems/ipo/)
 8. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+9. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
