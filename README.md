@@ -1,4 +1,4 @@
-# Completed Problems (Total: 229)
+# Completed Problems (Total: 231)
 
 ## Data Structure
 
@@ -92,6 +92,7 @@
 3. [Group Anagrams](https://leetcode.com/problems/group-anagrams)
 4. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 5. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+6. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 ### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
@@ -192,6 +193,7 @@
 17. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
 18. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 19. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
+20. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
