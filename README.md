@@ -1,4 +1,4 @@
-# Completed Problems (Total: 231)
+# Completed Problems (Total: 232)
 
 ## Data Structure
 
@@ -119,6 +119,7 @@
 #### Trie
 1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 2. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+3. [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
 
 #### Heap
 1. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
