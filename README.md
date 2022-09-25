@@ -30,6 +30,7 @@
 25. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 27. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+28. [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/)
 
 
 ###
