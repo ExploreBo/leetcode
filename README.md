@@ -1,4 +1,4 @@
-# Completed Problems (Total: 232)
+# Completed Problems (Total: 234)
 
 ## Data Structure
 
@@ -157,6 +157,7 @@
 10. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 11. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+13. [My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
