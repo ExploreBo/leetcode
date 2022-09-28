@@ -1,4 +1,4 @@
-# Completed Problems (Total: 235)
+# Completed Problems (Total: 237)
 
 ## Data Structure
 
@@ -158,7 +158,6 @@
 11. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 13. [My Calendar I](https://leetcode.com/problems/my-calendar-i/)
-14. [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
@@ -224,6 +223,9 @@
 4. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 5. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 6. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+7. [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+8. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+9. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
 
 ### (De)Serialization/ Tree Recontruction
