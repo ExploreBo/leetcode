@@ -1,4 +1,4 @@
-# Completed Problems (Total: 240)
+# Completed Problems (Total: 241)
 
 ## Data Structure
 
@@ -262,6 +262,7 @@
 14. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 15. [Happy Number](https://leetcode.com/problems/happy-number/)
 16. [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+17. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
