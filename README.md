@@ -1,4 +1,4 @@
-# Completed Problems (Total: 237)
+# Completed Problems (Total: 238)
 
 ## Data Structure
 
@@ -284,6 +284,7 @@
 8. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 9. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 10. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+11. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
