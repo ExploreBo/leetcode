@@ -1,4 +1,4 @@
-# Completed Problems (Total: 241)
+# Completed Problems (Total: 245)
 
 ## Data Structure
 
@@ -31,7 +31,8 @@
 26. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 27. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 28. [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/)
-
+29. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+30. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) 
 
 ###
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
@@ -263,6 +264,8 @@
 15. [Happy Number](https://leetcode.com/problems/happy-number/)
 16. [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 17. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
+18. [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)
+19. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)
 
 ## Big Integer
 1. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
