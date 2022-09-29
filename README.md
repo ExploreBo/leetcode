@@ -1,4 +1,4 @@
-# Completed Problems (Total: 239)
+# Completed Problems (Total: 240)
 
 ## Data Structure
 
@@ -108,6 +108,7 @@
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
+2. [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 
 ### ComplexDataStructure
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
