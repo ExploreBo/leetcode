@@ -1,4 +1,4 @@
-# Completed Problems (Total: 238)
+# Completed Problems (Total: 239)
 
 ## Data Structure
 
@@ -133,6 +133,7 @@
 8. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 9. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 10. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+11. [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
