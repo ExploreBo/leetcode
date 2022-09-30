@@ -1,4 +1,4 @@
-# Completed Problems (Total: 250)
+# Completed Problems (Total: 252)
 
 ## Data Structure
 
@@ -74,6 +74,7 @@
 31. [Single Number](https://leetcode.com/problems/single-number)
 32. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 33. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
+34. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
