@@ -1,4 +1,4 @@
-# Completed Problems (Total: 245)
+# Completed Problems (Total: 248)
 
 ## Data Structure
 
@@ -32,7 +32,9 @@
 27. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 28. [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/)
 29. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-30. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) 
+30. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
+31. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
+32. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 
 ###
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
@@ -200,6 +202,7 @@
 18. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 19. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 20. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
+21. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
