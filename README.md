@@ -204,6 +204,7 @@
 19. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 20. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 21. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/)
+22. [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
