@@ -1,4 +1,4 @@
-# Completed Problems (Total: 252)
+# Completed Problems (Total: 253)
 
 ## Data Structure
 
@@ -91,6 +91,7 @@
 12. [Sort List](https://leetcode.com/problems/sort-list)
 13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 14. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+15. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 ### Hash
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)

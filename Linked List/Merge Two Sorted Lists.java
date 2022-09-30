@@ -38,7 +38,7 @@ class Solution {
 }
 
 
-// Solution 2
+// Solution 2. iterative
 
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
@@ -55,12 +55,28 @@ class Solution {
                 curr = curr.next;
             }
         }
-        if (list1 != null) {
-            curr.next = list1;
-        }
-        if (list2 != null) {
-            curr.next = list2;
-        }
+        curr.next = list1 == null ? list2 : list1;
         return result.next;
+    }
+}
+
+// Solution 3. Recursion
+class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if (l1 == null) {
+            return l2;
+        }
+        else if (l2 == null) {
+            return l1;
+        }
+        else if (l1.val < l2.val) {
+            l1.next = mergeTwoLists(l1.next, l2);
+            return l1;
+        }
+        else {
+            l2.next = mergeTwoLists(l1, l2.next);
+            return l2;
+        }
+
     }
 }
