@@ -1,4 +1,4 @@
-# Completed Problems (Total: 249)
+# Completed Problems (Total: 250)
 
 ## Data Structure
 
@@ -305,6 +305,9 @@
 1. [Jump Game](https://leetcode.com/problems/jump-game/)
 2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 3. [Partition Labels](https://leetcode.com/problems/partition-labels)
+
+### Dijakstra's Algorithm
+1. [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
 
 
 ## To be categorized
