@@ -1,0 +1,11 @@
+x & (-x) is a way to isolate the rightmost 1-bit, i.e. to keep the rightmost 1-bit and to set all the others bits to zero.
+
+x ^ x = 0
+
+x ^ 0 = x
+
+x ^ (x - 1) remove the rightmost 1-bit and set it to 0.
+
+Bit mask
+Words contain only lower case letters and hence an absence or presence of each letter in a word could be encoded with a bitmask of 26 elements. Let's set bit number 0 equal to 1 if character a is present in the word, and to 0 otherwise. Now bit number 1. Let's set it equal to 1 if character b is present in the word, and to 0 otherwise. And so on and so forth, till the bit number 26 which is equal to 1 if z is present in the word.
+i.e. bitmask |= 1 << (int) (char - 'a');

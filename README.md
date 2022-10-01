@@ -1,4 +1,4 @@
-# Completed Problems (Total: 260)
+# Completed Problems (Total: 263)
 
 ## Data Structure
 
@@ -40,12 +40,15 @@
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 2. [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 3. [Single Number](https://leetcode.com/problems/single-number)
+4. [Single Number II](https://leetcode.com/problems/single-number-ii/)
+5. [Single Number III](https://leetcode.com/problems/single-number-iii/)
 4. [Missing Number](https://leetcode.com/problems/missing-number/)
 5. [Power of Four](https://leetcode.com/problems/power-of-four)
 6. [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 7. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)
 8. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 9. [Count Bits](https://leetcode.com/problems/counting-bits)
+10. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
