@@ -1,4 +1,4 @@
-# Completed Problems (Total: 253)
+# Completed Problems (Total: 255)
 
 ## Data Structure
 
@@ -36,8 +36,9 @@
 31. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 32. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 
-###
+### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+2. [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 
 
 ### Array
@@ -92,6 +93,7 @@
 13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 14. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 15. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+16. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 ### Hash
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
