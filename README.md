@@ -1,4 +1,4 @@
-# Completed Problems (Total: 258)
+# Completed Problems (Total: 260)
 
 ## Data Structure
 
@@ -44,6 +44,8 @@
 5. [Power of Four](https://leetcode.com/problems/power-of-four)
 6. [Reverse Bits](https://leetcode.com/problems/reverse-bits)
 7. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)
+8. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+9. [Count Bits](https://leetcode.com/problems/counting-bits)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
