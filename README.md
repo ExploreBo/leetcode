@@ -1,4 +1,4 @@
-# Completed Problems (Total: 255)
+# Completed Problems (Total: 258)
 
 ## Data Structure
 
@@ -39,7 +39,11 @@
 ### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 2. [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
-
+3. [Single Number](https://leetcode.com/problems/single-number)
+4. [Missing Number](https://leetcode.com/problems/missing-number/)
+5. [Power of Four](https://leetcode.com/problems/power-of-four)
+6. [Reverse Bits](https://leetcode.com/problems/reverse-bits)
+7. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
@@ -69,13 +73,11 @@
 25. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix)
 26. [Game of Life](https://leetcode.com/problems/game-of-life/)
 27. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
-28. [Missing Number](https://leetcode.com/problems/missing-number/)
-29. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-30. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-31. [Single Number](https://leetcode.com/problems/single-number)
-32. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-33. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
-34. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
+28. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+29. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+30. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+31. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
+32. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
