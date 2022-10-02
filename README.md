@@ -1,4 +1,4 @@
-# Completed Problems (Total: 264)
+# Completed Problems (Total: 266)
 
 ## Data Structure
 
@@ -84,6 +84,7 @@
 31. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
 32. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
 33. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+34. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -171,9 +172,10 @@
 6. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)
 7. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 8. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-9. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-10. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-11. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+9. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+10. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+11. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+12. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 13. [My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 
