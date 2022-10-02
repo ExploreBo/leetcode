@@ -1,4 +1,4 @@
-# Completed Problems (Total: 267)
+# Completed Problems (Total: 269)
 
 ## Data Structure
 
@@ -123,6 +123,8 @@
 7. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii)
 8. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 9. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+10. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+11. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
