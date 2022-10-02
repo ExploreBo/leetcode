@@ -1,4 +1,4 @@
-# Completed Problems (Total: 263)
+# Completed Problems (Total: 264)
 
 ## Data Structure
 
@@ -83,6 +83,7 @@
 30. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 31. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
 32. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
+33. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
