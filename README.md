@@ -1,4 +1,4 @@
-# Completed Problems (Total: 266)
+# Completed Problems (Total: 267)
 
 ## Data Structure
 
@@ -85,6 +85,7 @@
 32. [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/description/)
 33. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 34. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+35. [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
