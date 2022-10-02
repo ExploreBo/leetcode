@@ -1,4 +1,4 @@
-# Completed Problems (Total: 269)
+# Completed Problems (Total: 270)
 
 ## Data Structure
 
@@ -161,6 +161,7 @@
 2. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 3. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 4. [Employee Free Time](https://leetcode.com/problems/employee-free-time)
+5. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)
 
 #### Segment Tree
 1. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
