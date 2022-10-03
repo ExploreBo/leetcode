@@ -39,11 +39,7 @@ class MyHashSet {
         while (index != null && index.key != key) {
             index = index.next;
         }
-        if (index != null && index.key == key) {
-            return true;
-        } else {
-            return false;
-        }
+        return index != null && index.key == key;
     }
     
     private class Node {

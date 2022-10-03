@@ -1,4 +1,4 @@
-# Completed Problems (Total: 270)
+# Completed Problems (Total: 274)
 
 ## Data Structure
 
@@ -68,6 +68,7 @@
 15. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 16. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 17. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+18. [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) 
 18. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 19. [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)
 20. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
@@ -112,6 +113,7 @@
 4. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 5. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 6. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+7. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)
 
 ### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
@@ -223,6 +225,8 @@
 20. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 21. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/)
 22. [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/)
+23. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
+24. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)

@@ -18,6 +18,7 @@ class Solution {
 
 /*
 Time complexity: O(n)
+Basically maintain a decreasing queue that the left most element is always the maximum of current window.
 */
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
