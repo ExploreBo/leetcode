@@ -1,4 +1,4 @@
-# Completed Problems (Total: 274)
+# Completed Problems (Total: 280)
 
 ## Data Structure
 
@@ -164,6 +164,7 @@
 3. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 4. [Employee Free Time](https://leetcode.com/problems/employee-free-time)
 5. [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)
+6. [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/description/)
 
 #### Segment Tree
 1. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
@@ -244,6 +245,11 @@
 13. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 14. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)
 15. [Binary Tree Path Sum II](https://www.lintcode.com/problem/binary-tree-path-sum-ii)
+16. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)
+17. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)
+18. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+19. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
+20. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 
 
 ### Traversal
