@@ -1,4 +1,4 @@
-# Completed Problems (Total: 280)
+# Completed Problems (Total: 281)
 
 ## Data Structure
 
@@ -228,6 +228,7 @@
 22. [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/)
 23. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
 24. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)
+25. [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)

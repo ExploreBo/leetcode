@@ -14,7 +14,7 @@ public int update(int i, int val) {
 // Time Limit Exceeded
 
 
-// Segment Tree. update/sumRange O(nlogn), build: O(n)
+// Segment Tree. update/sumRange O(logn), build: O(n)
 class NumArray {
     int[] tree;
     int n;
