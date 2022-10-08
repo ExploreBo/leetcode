@@ -1,4 +1,4 @@
-# Completed Problems (Total: 281)
+# Completed Problems (Total: 283)
 
 ## Data Structure
 
@@ -229,6 +229,7 @@
 23. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)
 24. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)
 25. [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
+26. [Max Area of Islands](https://leetcode.com/problems/max-area-of-island/description/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
@@ -311,6 +312,7 @@
 4. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 5. [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 6. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+7. [Parallel Courses](https://leetcode.com/problems/parallel-courses/description/)
 
 ## Dynamic Programming
 
