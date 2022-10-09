@@ -1,4 +1,4 @@
-# Completed Problems (Total: 287)
+# Completed Problems (Total: 289)
 
 ## Data Structure
 
@@ -49,6 +49,7 @@
 8. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 9. [Count Bits](https://leetcode.com/problems/counting-bits)
 10. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
+11. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
@@ -96,15 +97,16 @@
 5. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 6. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 7. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-8. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-9. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-10. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-11. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-12. [Sort List](https://leetcode.com/problems/sort-list)
-13. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-14. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-15. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
-16. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+8. [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/)
+9. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+10. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+11. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+12. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+13. [Sort List](https://leetcode.com/problems/sort-list)
+14. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+15. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+16. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+17. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
 
 ### Hash
 1. [Design HashMap](https://leetcode.com/problems/design-hashmap)
