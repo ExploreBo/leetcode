@@ -1,4 +1,4 @@
-# Completed Problems (Total: 292)
+# Completed Problems (Total: 293)
 
 ## Data Structure
 
@@ -335,7 +335,8 @@
 11. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 12. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 13. [House Robber](https://leetcode.com/problems/house-robber/description/)
-14. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
+14. [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
+15. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
