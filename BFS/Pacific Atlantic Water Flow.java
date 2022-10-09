@@ -75,33 +75,6 @@ class Solution {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // check every cell. it's more complicated in time.
 class Solution {
     public List<List<Integer>> pacificAtlantic(int[][] heights) {

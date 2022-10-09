@@ -1,4 +1,4 @@
-# Completed Problems (Total: 285)
+# Completed Problems (Total: 286)
 
 ## Data Structure
 
@@ -232,6 +232,7 @@
 24. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)
 25. [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 26. [Max Area of Islands](https://leetcode.com/problems/max-area-of-island/description/)
+27. [Word Search](https://leetcode.com/problems/word-search)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)

@@ -15,7 +15,7 @@ class Solution {
         //recursive case
         for(int i = 0; i < nums.length; i++) {
             // if the item has been put into the permution, skip
-            if(temp.contains(nums[i])) continue;
+            if (temp.contains(nums[i])) continue;
             temp.add(nums[i]);
             permuteUtil(list, temp, nums);
             temp.remove(temp.size() - 1);
