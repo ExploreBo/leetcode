@@ -11,8 +11,8 @@ class Solution {
             list.add(new ArrayList<>(tempList));
         } else{
             for(int i = 0; i < nums.length; i++){
-                // !used[i - 1] only eliminates the consecutive case, like 1,2,2,3
-                // but it won't eliminate 1,2,3,2
+                // for example, [1a, 1b, 2a], nums[i] == nums[i-1] && !used[i - 1]
+                // is to make sure 1b cannot be selected before 1a
                 if (used[i] || i > 0 && nums[i] == nums[i-1] && !used[i - 1]) continue;
                 used[i] = true; 
                 tempList.add(nums[i]);

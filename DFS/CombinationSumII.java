@@ -22,7 +22,7 @@ class Solution {
             }
 
         } else if (target == 0) {
-            // we need to add the cop of cur instead of cur itself
+            // we need to add the copy of cur instead of cur itself
             result.add(new ArrayList<Integer>(cur));
         }
     } 
