@@ -1,4 +1,4 @@
-# Completed Problems (Total: 290)
+# Completed Problems (Total: 292)
 
 ## Data Structure
 
@@ -334,6 +334,8 @@
 10. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 11. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
 12. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+13. [House Robber](https://leetcode.com/problems/house-robber/description/)
+14. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
