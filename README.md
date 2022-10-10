@@ -1,4 +1,4 @@
-# Completed Problems (Total: 293)
+# Completed Problems (Total: 295)
 
 ## Data Structure
 
@@ -116,6 +116,8 @@
 5. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 6. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 7. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)
+8. [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/)
+9. [Detect Square](https://leetcode.com/problems/detect-squares)
 
 ### Stack
 1. [Min Stack](https://leetcode.com/problems/min-stack)
