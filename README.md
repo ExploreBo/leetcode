@@ -1,4 +1,4 @@
-# Completed Problems (Total: 295)
+# Completed Problems (Total: 296)
 
 ## Data Structure
 
@@ -209,6 +209,7 @@
 10. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
 11. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
 12. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
+13. [Race Car](https://leetcode.com/problems/race-car/description/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
