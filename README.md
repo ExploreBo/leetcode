@@ -1,4 +1,4 @@
-# Completed Problems (Total: 296)
+# Completed Problems (Total: 300)
 
 ## Data Structure
 
@@ -210,6 +210,8 @@
 11. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)
 12. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
 13. [Race Car](https://leetcode.com/problems/race-car/description/)
+14. [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
+15. [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
@@ -239,6 +241,7 @@
 25. [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 26. [Max Area of Islands](https://leetcode.com/problems/max-area-of-island/description/)
 27. [Word Search](https://leetcode.com/problems/word-search)
+28. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
@@ -261,6 +264,7 @@
 18. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 19. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
 20. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+21. [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/)
 
 
 ### Traversal
