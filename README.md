@@ -1,4 +1,4 @@
-# Completed Problems (Total: 300)
+# Completed Problems (Total: 304)
 
 ## Data Structure
 
@@ -35,6 +35,7 @@
 30. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)
 31. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 32. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+33. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)
 
 ### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
@@ -88,6 +89,7 @@
 33. [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
 34. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 35. [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
+36. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -161,6 +163,7 @@
 9. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 10. [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 11. [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)
+12. [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation)
 
 #### Sweap Line
 1. [Number of Airplanes in the Sky](https://www.lintcode.com/problem/391)
@@ -326,6 +329,7 @@
 5. [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)
 6. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 7. [Parallel Courses](https://leetcode.com/problems/parallel-courses/description/)
+8. [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
 
 ## Dynamic Programming
 
