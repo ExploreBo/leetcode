@@ -1,4 +1,4 @@
-# Completed Problems (Total: 304)
+# Completed Problems (Total: 315)
 
 ## Data Structure
 
@@ -36,6 +36,9 @@
 31. [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/)
 32. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 33. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)
+34. [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/description/)
+35. [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/)
+36. [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/)
 
 ### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
@@ -90,6 +93,8 @@
 34. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 35. [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)
 36. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
+37. [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
+38. [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
@@ -105,7 +110,7 @@
 11. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 12. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 13. [Sort List](https://leetcode.com/problems/sort-list)
-14. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+14. [Copy List with  Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 15. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 16. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 17. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
@@ -138,13 +143,14 @@
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
 2. [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
 
-### ComplexDataStructure
+### Complex Data Structure
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 3. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 4. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 5. [Design Underground System](https://leetcode.com/problems/design-underground-system)
 6. [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
+7. [Range Module](https://leetcode.com/problems/range-module/description/)
 
 #### Trie
 1. [Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
@@ -332,7 +338,6 @@
 8. [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
 
 ## Dynamic Programming
-
 1. [Word Break](https://leetcode.com/problems/word-break)
 2. [Word Break II](https://leetcode.com/problems/word-break-ii)
 3. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -348,6 +353,8 @@
 13. [House Robber](https://leetcode.com/problems/house-robber/description/)
 14. [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 15. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
+16. [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)
+17. [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
@@ -358,9 +365,12 @@
 1. [Jump Game](https://leetcode.com/problems/jump-game/)
 2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 3. [Partition Labels](https://leetcode.com/problems/partition-labels)
+4. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+5. [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers)
 
 ### Dijakstra's Algorithm
 1. [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)
+2. [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
 
 
 ## To be categorized
@@ -372,3 +382,5 @@
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
 2. https://leetcode.com/problems/median-of-two-sorted-arrays/
 3. https://leetcode.com/problems/remove-invalid-parentheses/
+4. https://leetcode.com/problems/range-module/description/
+5. https://leetcode.com/problems/filling-bookcase-shelves/description/
