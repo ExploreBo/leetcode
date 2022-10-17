@@ -1,4 +1,4 @@
-# Completed Problems (Total: 319)
+# Completed Problems (Total: 320)
 
 ## Data Structure
 
@@ -97,6 +97,7 @@
 36. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
 37. [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
 38. [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
+39. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
