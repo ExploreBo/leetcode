@@ -1,4 +1,4 @@
-# Completed Problems (Total: 318)
+# Completed Problems (Total: 319)
 
 ## Data Structure
 
@@ -141,6 +141,7 @@
 10. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
 11. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 12. [Number of Atoms](https://leetcode.com/problems/number-of-atoms)
+13. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
