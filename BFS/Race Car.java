@@ -1,3 +1,10 @@
+/*
+
+The BFS runs at O(target * log(target)) in the worst case, with O(target * log(target)) space. 
+The reasoning is as follows: in the worst case, 
+all positions in the range [-target, target] will be visited 
+and for each position there can be as many as 2 * log(target) different speeds.
+*/
 class Solution {    
     public int racecar(int target) {
         Set<String> visited = new HashSet<>(); 
