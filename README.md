@@ -1,4 +1,4 @@
-# Completed Problems (Total: 320)
+# Completed Problems (Total: 322)
 
 ## Data Structure
 
@@ -147,6 +147,7 @@
 ### Union Find
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/): Duplicate with #2 in BFS
 2. [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)
+3. [Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)
 
 ### Complex Data Structure
 1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
@@ -226,6 +227,7 @@
 13. [Race Car](https://leetcode.com/problems/race-car/description/)
 14. [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 15. [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/)
+16. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
