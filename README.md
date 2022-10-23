@@ -1,4 +1,4 @@
-# Completed Problems (Total: 322)
+# Completed Problems (Total: 323)
 
 ## Data Structure
 
@@ -56,6 +56,7 @@
 9. [Count Bits](https://leetcode.com/problems/counting-bits)
 10. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
 11. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
+12. [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array)
 
 ### Array
 1. [Two Sum](https://leetcode.com/problems/two-sum)
