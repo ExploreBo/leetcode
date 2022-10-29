@@ -1,4 +1,4 @@
-# Completed Problems (Total: 324)
+# Completed Problems (Total: 325)
 
 ## Data Structure
 
@@ -386,6 +386,7 @@
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+4. [Guess the Word](https://leetcode.com/problems/guess-the-word)
 
 ## Todo:
 1. Revisit backpacking. Understand the solutions and explore the 1D (more space effective) solutions
