@@ -1,4 +1,4 @@
-# Completed Problems (Total: 323)
+# Completed Problems (Total: 324)
 
 ## Data Structure
 
@@ -229,6 +229,7 @@
 14. [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 15. [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/description/)
 16. [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/description/)
+17. [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/)
 
 ## DFS
 1. [Combination Sum](https://leetcode.com/problems/combination-sum/)
