@@ -1,4 +1,4 @@
-# Completed Problems (Total: 325)
+# Completed Problems (Total: 326)
 
 ## Data Structure
 
@@ -260,6 +260,7 @@
 26. [Max Area of Islands](https://leetcode.com/problems/max-area-of-island/description/)
 27. [Word Search](https://leetcode.com/problems/word-search)
 28. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+29. [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/solutions/)
 
 ## Binary Tree
 1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
