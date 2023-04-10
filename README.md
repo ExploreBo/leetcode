@@ -1,4 +1,4 @@
-# Completed Problems (Total: 326)
+# Completed Problems (Total: 327)
 
 ## Data Structure
 
@@ -99,6 +99,7 @@
 37. [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/)
 38. [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
 39. [Valid Square](https://leetcode.com/problems/valid-square/description/)
+40. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
