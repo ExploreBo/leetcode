@@ -23,19 +23,24 @@ class Solution {
 
 // better version
 class Solution {
-  public boolean isPalindrome(String s) {
-    for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
-      while (i < j && !Character.isLetterOrDigit(s.charAt(i))) {
-        i++;
-      }
-      while (i < j && !Character.isLetterOrDigit(s.charAt(j))) {
-        j--;
-      }
+    public boolean isPalindrome(String s) {
+        int left = 0;
+        int right = s.length() - 1;
+        while (left <= right) {
+            if (!Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            } else if (!Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            } else {
+                if (Character.toLowerCase(s.charAt(left)) ==  Character.toLowerCase(s.charAt(right))) {
+                    left++;
+                    right--;
+                } else {
+                    return false;
+                }
 
-      if (Character.toLowerCase(s.charAt(i)) != Character.toLowerCase(s.charAt(j)))
-        return false;
+            }
+        }
+        return true;
     }
-
-    return true;
-  }
 }
