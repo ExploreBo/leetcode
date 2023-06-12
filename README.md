@@ -1,4 +1,4 @@
-# Completed Problems (Total: 328)
+# Completed Problems (Total: 329)
 
 ## Data Structure
 
@@ -100,6 +100,7 @@
 38. [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)
 39. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 40. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+41. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
