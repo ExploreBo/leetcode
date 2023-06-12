@@ -1,4 +1,4 @@
-# Completed Problems (Total: 327)
+# Completed Problems (Total: 328)
 
 ## Data Structure
 
@@ -206,6 +206,7 @@
 12. [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 13. [My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+14. [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 
 ## Sort
 1. [SortAnArray](https://leetcode.com/problems/sort-an-array)
