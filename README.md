@@ -1,4 +1,4 @@
-# Completed Problems (Total: 329)
+# Completed Problems (Total: 330)
 
 ## Data Structure
 
@@ -101,6 +101,7 @@
 39. [Valid Square](https://leetcode.com/problems/valid-square/description/)
 40. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 41. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+42. [Majority Element](https://leetcode.com/problems/majority-element/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
