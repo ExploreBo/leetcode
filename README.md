@@ -1,4 +1,4 @@
-# Completed Problems (Total: 330)
+# Completed Problems (Total: 331)
 
 ## Data Structure
 
@@ -102,6 +102,7 @@
 40. [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 41. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 42. [Majority Element](https://leetcode.com/problems/majority-element/description/)
+43. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 
 ### Linked List
 1. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
