@@ -1,4 +1,4 @@
-# Completed Problems (Total: 331)
+# Completed Problems (Total: 332)
 
 ## Data Structure
 
@@ -41,6 +41,7 @@
 36. [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/)
 37. [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)
 38. [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)
+39. [Add Binary](https://leetcode.com/problems/add-binary/description/)
 
 ### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
