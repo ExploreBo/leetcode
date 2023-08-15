@@ -149,71 +149,45 @@ class Solution {
 
 
 /*
-Approach III: Topological Sorting
+Approach III: Topological Sorting. Push the nodes with 0 indegree to the queue and do BFS.
 Execute normal Topological Sorting. Check whether removed edges equals the prerequisites length.
 */
-class GNode {
-  public Integer inDegrees = 0;
-  public List<Integer> outNodes = new LinkedList<Integer>();
-}
-
-
 class Solution {
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        int[] indegree = new int[numCourses];
+        List<List<Integer>> adj = new ArrayList<>(numCourses);
 
-  public boolean canFinish(int numCourses, int[][] prerequisites) {
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
+        }
 
-    if (prerequisites.length == 0)
-      return true; // no cycle could be formed in empty graph.
+        for (int[] prerequisite : prerequisites) {
+            adj.get(prerequisite[1]).add(prerequisite[0]);
+            indegree[prerequisite[0]]++;
+        }
 
-    // course -> list of next courses
-    HashMap<Integer, GNode> graph = new HashMap<>();
+        Queue<Integer> queue = new LinkedList<>();
+        // Push all the nodes with indegree zero in the queue.
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                queue.offer(i);
+            }
+        }
 
-    // build the graph first
-    for (int[] relation : prerequisites) {
-      // relation[1] -> relation[0]
-      GNode prevCourse = this.getCreateGNode(graph, relation[1]);
-      GNode nextCourse = this.getCreateGNode(graph, relation[0]);
+        int nodesVisited = 0;
+        while (!queue.isEmpty()) {
+            int node = queue.poll();
+            nodesVisited++;
 
-      prevCourse.outNodes.add(relation[0]);
-      nextCourse.inDegrees += 1;
+            for (int neighbor : adj.get(node)) {
+                // Delete the edge "node -> neighbor".
+                indegree[neighbor]--;
+                if (indegree[neighbor] == 0) {
+                    queue.offer(neighbor);
+                }
+            }
+        }
+
+        return nodesVisited == numCourses;
     }
-
-    // We start from courses that have no prerequisites.
-    int totalDeps = prerequisites.length;
-    LinkedList<Integer> nodepCourses = new LinkedList<Integer>();
-    for (Map.Entry<Integer, GNode> entry : graph.entrySet()) {
-      GNode node = entry.getValue();
-      if (node.inDegrees == 0)
-        nodepCourses.add(entry.getKey());
-    }
-
-    int removedEdges = 0;
-    while (nodepCourses.size() > 0) {
-      Integer course = nodepCourses.pop();
-
-      for (Integer nextCourse : graph.get(course).outNodes) {
-        GNode childNode = graph.get(nextCourse);
-        childNode.inDegrees -= 1;
-        removedEdges += 1;
-        if (childNode.inDegrees == 0)
-          nodepCourses.add(nextCourse);
-      }
-    }
-
-    return removedEdges == totalDeps;
-  }
-
-  /**
-   * Retrieve the existing <key, value> from graph, otherwise create a new one.
-   */
-  protected GNode getCreateGNode(HashMap<Integer, GNode> graph, Integer course) {
-    GNode node = null;
-    if (graph.containsKey(course)) {
-      node = graph.get(course);
-    } else {
-      node = new GNode();
-      graph.put(course, node);
-    }
-    return node;
-  }
 }

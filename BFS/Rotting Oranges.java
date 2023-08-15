@@ -12,7 +12,7 @@ class Solution {
                 }
             }
         }
-        if (freshCount == 0) return 0;
+        if (freshCount == 0) return 0; // important to eliminate the edge case of no rotten orange at all
         while (!queue.isEmpty()) {
             minute++;
             List<int[]> list = new ArrayList();

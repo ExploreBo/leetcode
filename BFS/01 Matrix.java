@@ -77,3 +77,53 @@ class Solution {
         return distance;
     }
 }
+
+
+// DP
+public int[][] updateMatrix(int[][] matrix) {
+    int[][] ret = new int[matrix.length][matrix[0].length];
+    int[][] dirs = new int[][]{{-1,0}, {0,-1}};
+
+    // first step iteration
+    for(int i=0; i<matrix.length; i++) {
+        for(int j=0; j<matrix[0].length; j++) {
+            if (matrix[i][j]==0) {
+                ret[i][j]=0;
+            } else {
+                ret[i][j] = matrix.length*matrix[0].length;
+                for(int k=0; k<2; k++){
+                    int x = i+dirs[k][0];
+                    int y = j+dirs[k][1];
+
+                    // check if neighbour is valid
+                    if (x<0 || y<0){
+                        continue;
+                    }
+                    ret[i][j] = Math.min(ret[i][j],ret[x][y]);
+                }
+                ret[i][j]++;
+            }
+        }
+    }
+
+    // second step iteration in reverse direction
+    for(int i=matrix.length-1; i>=0; i--){
+        for(int j=matrix[0].length-1; j>=0; j--){
+            if (matrix[i][j]==0) {
+                ret[i][j]=0;
+            } else {
+                for (int k=0; k<2; k++) {
+                    int x = i-dirs[k][0];
+                    int y = j-dirs[k][1];
+
+                    // check if neighbour is valid
+                    if (x >= matrix.length || y >= matrix[0].length) {
+                        continue;
+                    }
+                    ret[i][j] = Math.min(ret[i][j],ret[x][y]+1);
+                }
+            }
+        }
+    }
+    return ret;
+}
