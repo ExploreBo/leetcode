@@ -1,4 +1,4 @@
-# Completed Problems (Total: 334)
+# Completed Problems (Total: 335)
 
 ## Data Structure
 
@@ -42,6 +42,7 @@
 37. [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter)
 38. [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time)
 39. [Add Binary](https://leetcode.com/problems/add-binary/description/)
+40. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ### BitWise
 1. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
