@@ -1,4 +1,4 @@
-# Completed Problems (Total: 333)
+# Completed Problems (Total: 334)
 
 ## Data Structure
 
@@ -372,6 +372,7 @@
 16. [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/)
 17. [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/)
 18. [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
+19. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
