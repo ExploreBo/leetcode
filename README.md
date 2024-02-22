@@ -1,4 +1,4 @@
-# Completed Problems (Total: 335)
+# Completed Problems (Total: 336)
 
 ## Data Structure
 
@@ -374,6 +374,7 @@
 17. [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/)
 18. [Unique Paths](https://leetcode.com/problems/unique-paths/description/)
 19. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+20. [Coin Change](https://leetcode.com/problems/coin-change)
 
 ### BackPacking
 1. [0/1 BackPacking: just weight, no value](https://www.lintcode.com/problem/92)
